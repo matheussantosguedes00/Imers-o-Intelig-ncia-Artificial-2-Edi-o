@@ -1,24 +1,24 @@
-# Imersão Inteligência Artificial 2ª Edição
-Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
+# City Hotel Assistant
 
+## Descrição
 
-City Hotel Assistant
+O City Hotel Assistant é um chatbot projetado para ajudar os usuários na busca por hotéis em uma cidade específica. Sua interface é amigável e fácil de usar, permitindo uma experiência intuitiva para os usuários. No entanto, é importante notar que os resultados podem não ser totalmente precisos devido à possibilidade de o banco de dados utilizado não estar completamente atualizado.
 
-Descrição do Chatbot City Hotel Assistant: O City Hotel Assistant é um chatbot com o objetivo de auxiliar usuários na busca por hotéis em uma cidade específica. Sua interface é amigável e fácil de usar. No entanto, é importante ter em mente que os resultados podem não ser totalmente precisos, já que o banco de dados utilizado pode não estar completamente atualizado.
+## Funcionalidades
 
-Funcionalidades:
+- Pesquisa de hotéis por cidade.
+- Possibilidade de filtrar resultados por critérios como preço, localização e avaliações.
+- Fornecimento de informações básicas sobre os hotéis, como endereço, telefone e site.
 
-Pesquisa de hotéis por cidade.
-Possibilidade de filtrar resultados por critérios como preço, localização e avaliações.
-Fornecimento de informações básicas sobre os hotéis, como endereço, telefone e site
-Limitações:
+## Limitações
 
-Precisão dos resultados pode ser afetada por um banco de dados desatualiza
-Pode não incluir todos os hotéis disponíveis na cidade.
-Público-alvo:
+- Precisão dos resultados pode ser afetada por um banco de dados desatualizado.
+- Pode não incluir todos os hotéis disponíveis na cidade.
 
-Viajantes que buscam uma maneira rápida e fácil de encontrar hotéis em uma cidade específica.
+## Público-alvo
 
-Conclusão:
+O City Hotel Assistant é direcionado a viajantes que buscam uma maneira rápida e fácil de encontrar hotéis em uma cidade específica.
 
-O City Hotel Assistant pode ser uma ferramenta útil para quem procura hotéis, mas é importante estar ciente de suas limitações e utilizar outras fontes para confirmar as informações antes de tomar uma decisão.
+## Conclusão
+
+Embora o City Hotel Assistant possa ser uma ferramenta útil para quem procura hotéis, é fundamental estar ciente de suas limitações. Recomenda-se utilizar outras fontes para confirmar as informações antes de tomar uma decisão final.
